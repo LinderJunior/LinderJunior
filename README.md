@@ -2,7 +2,7 @@
 
 -🛠 Entusiasmado em tecnologias e no desenvolvimento de aplicação web, adoro solucionar problemas, aprender e aprimorar cada vez mais os meus conhecimentos para um mundo melhor. 
 
--👌 É um privilegio fazer parte no mundo da tecnologias e continuar aprendendo. Atualmente atuo como Desenvolvedor Sénior em Java no time do NSDeveloper.
+-👌 É um privilegio fazer parte no mundo da tecnologias e continuar aprendendo. Atualmente atuo como Desenvolvedor Java no time do NSDeveloper - Moz.
 
 -🚀 “ O aprendizado é contínuo e sempre haverá um próximo nível”.
 
